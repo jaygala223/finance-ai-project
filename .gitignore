@@ -2,3 +2,4 @@ data/
 finance_env/
 uploaded_files/
 __pycache__/
+models/*.gguf
